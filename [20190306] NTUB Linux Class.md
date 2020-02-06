@@ -71,7 +71,7 @@ Swap:          2047         144        1903
 ### top  
 ```top``` 可以檢示系統目前運作狀態
 
-###練習  
+### 練習  
 ```
 centos$ top  
 top - 16:40:01 up 374 days, 16:31,  1 user,  load average: 0.00, 0.01, 0.05
