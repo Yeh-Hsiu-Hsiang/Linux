@@ -11,6 +11,6 @@
 [[NTUB] 20190508_Samba](https://hackmd.io/s/H1hdcylnN)  
 [[NTUB] 20190515_NFS](https://hackmd.io/s/SJuPrQt24)  
 [[NTUB] 20190522_ftp](https://hackmd.io/s/ryMqHDG6N)  
-[[NTUB] 20190529](https://hackmd.io/s/rknKldqpV)  
+[[NTUB] 20190529_EXAM (Apache+NFS)](https://hackmd.io/s/rknKldqpV)  
 [[NTUB] 20190605_Http vhost example file & Create new site & Http vhost generator](https://hackmd.io/@9aNJt5JYQHa6VF2VawexvA/r1KxXCE0V)  
 [BlackBoard_伺服器架設與規劃](https://bb.ntub.edu.tw/webapps/blackboard/content/listContent.jsp?course_id=_20402_1&content_id=_69414_1&mode=reset)  
